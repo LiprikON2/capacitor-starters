@@ -1,7 +1,8 @@
-# Capacitor Starter Templates
+## Capacitor + Phaser
 
-A collection of templates using popular web app stacks to use as a resource for new Capacitor apps.
+Use this starter to build mobile games using Capacitor and [Phaser](https://phaser.io).  This starter uses [Vite](https://vitejs.dev/) with TypeScript which is a great stack for building apps.
 
-## Contributing
+Capacitor and Phaser form the basis of such popular games as [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/) 🧛‍♂️.
 
-Have a great template you think we should add? PR's welcome!
+<img src="./screenshot-ios.png" width="468" title="iOS Screenshot">
+
